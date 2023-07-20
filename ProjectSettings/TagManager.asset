@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Enemy
+  - Chest
+  - Projectile
+  - Doors
+  - Boundary
+  - Ax
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Player
+  - Cannon
+  - Projectile
+  - Buttons
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3382670027
+    locked: 0
+  - name: Walls
+    uniqueID: 2585384909
+    locked: 0
+  - name: Stairs
+    uniqueID: 2417625727
+    locked: 0
+  - name: NPCs
+    uniqueID: 559353029
+    locked: 0
+  - name: Enemies
+    uniqueID: 2246294929
+    locked: 0
+  - name: Chest
+    uniqueID: 3963027029
+    locked: 0
+  - name: Player
+    uniqueID: 4049092327
+    locked: 0
+  - name: Objects
+    uniqueID: 1859001545
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2193234753
+    locked: 0
